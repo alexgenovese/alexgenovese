@@ -9,6 +9,14 @@
 
 - 🔭 I’m currently working on [Generative AI](https://getreica.com)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [ChatGPT in Marketing: Guide, Strategies in E-commerce](https://alexgenovese.medium.com/chatgpt-in-marketing-guide-strategies-in-e-commerce-de3132480b72?source=rss-7c856fc71355------2)
+- [2 Actionable CRO tips to increase your shop sales](https://alexgenovese.medium.com/2-actionable-cro-tips-to-increase-your-shop-sales-7d8085bf0566?source=rss-7c856fc71355------2)
+- [Design a Data-Driven Customer Journey Map](https://medium.datadriveninvestor.com/design-a-data-driven-customer-journey-map-20f9e74593ed?source=rss-7c856fc71355------2)
+- [How RFM analysis is helping segment and convert customers better](https://alexgenovese.medium.com/how-rfm-analysis-is-helping-segment-and-convert-customers-better-628f29e01c52?source=rss-7c856fc71355------2)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alexgenovese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexgenovese" height="30" width="40" /></a>
