@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Advertising Success: Keywords Experiment Matrix Unveiled](https://alexgenovese.it/blog/mastering-advertising-success-keywords-experiment-matrix-unveiled/)
+- [21 E-commerce Product Recommendation Tips for Increased Conversions: A Comprehensive Guide](https://alexgenovese.it/blog/21-e-commerce-product-recommendation-tips-for-increased-conversions-a-comprehensive-guide/)
+- [Unlocking Audience Segmentation in GA4 for Enhanced Marketing Strategies](https://alexgenovese.it/blog/unlocking-audience-segmentation-in-ga4-for-enhanced-marketing-strategies/)
 - [Collect customer feedback and generate a consistent data analysis](https://alexgenovese.it/blog/collect-customer-feedbacks-and-generate-a-consistent-data-analysis/)
-- [ChatGPT in Marketing: Guide, Strategies in E-commerce](https://alexgenovese.medium.com/chatgpt-in-marketing-guide-strategies-in-e-commerce-de3132480b72?source=rss-7c856fc71355------2)
-- [ChatGPT in Marketing: Guide, Strategies in E-commerce](https://alexgenovese.it/blog/chatgpt-in-marketing-guide-strategies-in-e-commerce/)
-- [5 Easy Ways to Improve Your Marketing Using AI](https://alexgenovese.it/blog/5-easy-ways-to-improve-your-marketing-using-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
