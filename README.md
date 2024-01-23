@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Guidare la fedeltà dei clienti: Come l&#39;analisi RFM e l&#39;analisi RFM possono trasformare la vostra attività](https://alexgenovese.it/blog/guidare-la-fedelta-dei-clienti-come-lanalisi-rfm-e-lanalisi-rfm-possono-trasformare-la-vostra-attivita/)
 - [Mastering Advertising Success: Keywords Experiment Matrix Unveiled](https://alexgenovese.it/blog/mastering-advertising-success-keywords-experiment-matrix-unveiled/)
 - [21 E-commerce Product Recommendation Tips for Increased Conversions: A Comprehensive Guide](https://alexgenovese.it/blog/21-e-commerce-product-recommendation-tips-for-increased-conversions-a-comprehensive-guide/)
 - [Unlocking Audience Segmentation in GA4 for Enhanced Marketing Strategies](https://alexgenovese.it/blog/unlocking-audience-segmentation-in-ga4-for-enhanced-marketing-strategies/)
-- [Collect customer feedback and generate a consistent data analysis](https://alexgenovese.it/blog/collect-customer-feedbacks-and-generate-a-consistent-data-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
