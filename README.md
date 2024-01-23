@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Case Study] +172.43% Conversion Rate in 2 months](https://alexgenovese.it/blog/172-43-organic-search-revenue-for-pc-international/)
+- [CRM cosa significa, a cosa serve?](https://alexgenovese.it/blog/cos-crm/)
 - [The Ultimate Guide to Growth Hacking](https://alexgenovese.it/blog/the-ultimate-guide-to-growth-hacking/)
 - [The Power of Marketing Automation](https://alexgenovese.it/blog/the-power-of-marketing-automation/)
-- [Come utilizzare Google Data Studio per le tue analisi](https://alexgenovese.it/blog/come-utilizzare-google-data-studio-per-le-tue-analisi/)
-- [Analisi dei dati per ottimizzare le prestazioni](https://alexgenovese.it/blog/analisi-dei-dati-per-ottimizzare-le-prestazioni/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
