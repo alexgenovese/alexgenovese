@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Customer Journey through Data Modeling](https://alexgenovese.it/blog/understanding-the-customer-journey-through-data-modeling/)
 - [Come creare una Strategia Marketing basata sull&#39;analisi dei clienti](https://alexgenovese.it/blog/come-creare-una-strategia-marketing-basata-sullanalisi-dei-clienti/)
 - [[Case Study] +172.43% Conversion Rate in 2 months](https://alexgenovese.it/blog/172-43-organic-search-revenue-for-pc-international/)
 - [CRM cosa significa, a cosa serve?](https://alexgenovese.it/blog/cos-crm/)
-- [The Ultimate Guide to Growth Hacking](https://alexgenovese.it/blog/the-ultimate-guide-to-growth-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
