@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cookieless tracking: come funziona il tracciamento senza cookie e come leggerli in Google Analytics 4](https://alexgenovese.it/blog/cookieless-tracking-come-funziona-il-tracciamento-senza-cookie-e-come-leggerli-in-google-analytics-4/)
 - [How to create a Mail Marketing Automation based on Customer Journey](https://alexgenovese.it/blog/your-first-marketing-automation-schema-based-on-customer-journey/)
 - [Understanding the Customer Journey through Data Modeling](https://alexgenovese.it/blog/understanding-the-customer-journey-through-data-modeling/)
 - [Come creare una Strategia Marketing basata sull&#39;analisi dei clienti](https://alexgenovese.it/blog/come-creare-una-strategia-marketing-basata-sullanalisi-dei-clienti/)
-- [[Case Study] +172.43% Conversion Rate in 2 months](https://alexgenovese.it/blog/172-43-organic-search-revenue-for-pc-international/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
