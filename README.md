@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Cookieless Future: tracking and advertising solutions](https://alexgenovese.it/blog/cookieless-tracking-adv-ecommerce-data-analytics/)
 - [Cookieless tracking: come funziona il tracciamento senza cookie e come leggerli in Google Analytics 4](https://alexgenovese.it/blog/cookieless-tracking-come-funziona-il-tracciamento-senza-cookie-e-come-leggerli-in-google-analytics-4/)
 - [How to create a Mail Marketing Automation based on Customer Journey](https://alexgenovese.it/blog/your-first-marketing-automation-schema-based-on-customer-journey/)
 - [Understanding the Customer Journey through Data Modeling](https://alexgenovese.it/blog/understanding-the-customer-journey-through-data-modeling/)
-- [Come creare una Strategia Marketing basata sull&#39;analisi dei clienti](https://alexgenovese.it/blog/come-creare-una-strategia-marketing-basata-sullanalisi-dei-clienti/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
