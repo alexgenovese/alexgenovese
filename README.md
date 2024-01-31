@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cookie di Terza Parte: come prepararsi alla deprecazione e che impatto avranno le campagne ADV](https://alexgenovese.it/blog/guida-completa-ai-cookie-di-terza-parte-cosa-sono-e-come-influiscono-sulla-tua-navigazione/)
 - [Navigating the Cookieless Future: tracking and advertising solutions](https://alexgenovese.it/blog/cookieless-tracking-adv-ecommerce-data-analytics/)
 - [Cookieless tracking: come funziona il tracciamento senza cookie e come leggerli in Google Analytics 4](https://alexgenovese.it/blog/cookieless-tracking-come-funziona-il-tracciamento-senza-cookie-e-come-leggerli-in-google-analytics-4/)
 - [How to create a Mail Marketing Automation based on Customer Journey](https://alexgenovese.it/blog/your-first-marketing-automation-schema-based-on-customer-journey/)
-- [Understanding the Customer Journey through Data Modeling](https://alexgenovese.it/blog/understanding-the-customer-journey-through-data-modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
