@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Marketing Automation to Use Today in a Loyalty Strategy](https://alexgenovese.it/blog/three-marketing-automation-to-use-today-in-a-loyalty-strategy/)
 - [Customer Segmentation: Let your business grow easily](https://alexgenovese.it/blog/customer-segmentation-let-your-business-grow-easily/)
 - [Cookie di Terza Parte: come prepararsi alla deprecazione e che impatto avranno le campagne ADV](https://alexgenovese.it/blog/guida-completa-ai-cookie-di-terza-parte-cosa-sono-e-come-influiscono-sulla-tua-navigazione/)
 - [Navigating the Cookieless Future: tracking and advertising solutions](https://alexgenovese.it/blog/cookieless-tracking-adv-ecommerce-data-analytics/)
-- [Cookieless tracking: come funziona il tracciamento senza cookie e come leggerli in Google Analytics 4](https://alexgenovese.it/blog/cookieless-tracking-come-funziona-il-tracciamento-senza-cookie-e-come-leggerli-in-google-analytics-4/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
