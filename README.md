@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ecommerce strategies: a growth approach to a low-margin business](https://alexgenovese.it/blog/ecommerce-strategies-a-growth-approach-to-a-low-margin-business/)
 - [What are predictive Analytics and How to use for business](https://alexgenovese.it/blog/what-are-predictive-analytics-and-how-to-use-for-business/)
 - [3 Marketing Automation to Use Today in a Loyalty Strategy](https://alexgenovese.it/blog/three-marketing-automation-to-use-today-in-a-loyalty-strategy/)
 - [Customer Segmentation: Let your business grow easily](https://alexgenovese.it/blog/customer-segmentation-let-your-business-grow-easily/)
-- [Cookie di Terza Parte: come prepararsi alla deprecazione e che impatto avranno le campagne ADV](https://alexgenovese.it/blog/guida-completa-ai-cookie-di-terza-parte-cosa-sono-e-come-influiscono-sulla-tua-navigazione/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
