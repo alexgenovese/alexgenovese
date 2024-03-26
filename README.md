@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT in Marketing: Guide, Strategies in E-commerce](https://alexgenovese.medium.com/chatgpt-in-marketing-guide-strategies-in-e-commerce-de3132480b72?source=rss-7c856fc71355------2)
-- [2 Actionable CRO tips to increase your shop sales](https://alexgenovese.medium.com/2-actionable-cro-tips-to-increase-your-shop-sales-7d8085bf0566?source=rss-7c856fc71355------2)
-- [Design a Data-Driven Customer Journey Map](https://medium.datadriveninvestor.com/design-a-data-driven-customer-journey-map-20f9e74593ed?source=rss-7c856fc71355------2)
-- [How RFM analysis is helping segment and convert customers better](https://alexgenovese.medium.com/how-rfm-analysis-is-helping-segment-and-convert-customers-better-628f29e01c52?source=rss-7c856fc71355------2)
+- [Ecommerce strategies: a growth approach to a low-margin business](https://alexgenovese.it/blog/ecommerce-strategies-a-growth-approach-to-a-low-margin-business/)
+- [What are predictive Analytics and How to use for business](https://alexgenovese.it/blog/what-are-predictive-analytics-and-how-to-use-for-business/)
+- [3 Marketing Automation to Use Today in a Loyalty Strategy](https://alexgenovese.it/blog/three-marketing-automation-to-use-today-in-a-loyalty-strategy/)
+- [Customer Segmentation: Let your business grow easily](https://alexgenovese.it/blog/customer-segmentation-let-your-business-grow-easily/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
