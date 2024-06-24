@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Data-Driven Customer Segmentation](https://alexgenovese.it/blog/the-role-of-growth-consultants-implementing-data-driven-customer-segmentation/)
+- [Generative AI: Revolutionizing Visual Marketing on Instagram](https://alexgenovese.it/blog/generative-ai-revolutionizing-visual-marketing-on-instagram/)
 - [Unlocking the Future: An Essential Guide to What Predictive Analytics Is](https://alexgenovese.it/blog/unlocking-the-future-an-essential-guide-to-what-predictive-analytics-is/)
 - [Ecommerce strategies: a growth approach to a low-margin business](https://alexgenovese.it/blog/ecommerce-strategies-a-growth-approach-to-a-low-margin-business/)
-- [What are predictive Analytics and How to use for business](https://alexgenovese.it/blog/what-are-predictive-analytics-and-how-to-use-for-business/)
-- [3 Marketing Automation to Use Today in a Loyalty Strategy](https://alexgenovese.it/blog/three-marketing-automation-to-use-today-in-a-loyalty-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
