@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Chatbots: Your 24/7 Customer Service Superheroes](https://alexgenovese.it/blog/ai-chatbots-your-24-7-customer-service-superheroes/)
 - [Implementing Data-Driven Customer Segmentation](https://alexgenovese.it/blog/the-role-of-growth-consultants-implementing-data-driven-customer-segmentation/)
 - [Generative AI: Revolutionizing Visual Marketing on Instagram](https://alexgenovese.it/blog/generative-ai-revolutionizing-visual-marketing-on-instagram/)
 - [Unlocking the Future: An Essential Guide to What Predictive Analytics Is](https://alexgenovese.it/blog/unlocking-the-future-an-essential-guide-to-what-predictive-analytics-is/)
-- [Ecommerce strategies: a growth approach to a low-margin business](https://alexgenovese.it/blog/ecommerce-strategies-a-growth-approach-to-a-low-margin-business/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
