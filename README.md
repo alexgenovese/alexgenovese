@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Personalization: How Machines Are Making Marketing Human Again](https://alexgenovese.it/blog/ai-powered-personalization-how-machines-are-making-marketing-human-again/)
 - [Unleashing the Power of Data Mining and Predictive Analytics in E-commerce: A Comprehensive Guide to Customer Engagement](https://alexgenovese.it/blog/unleashing-the-power-of-data-mining-and-predictive-analytics-in-e-commerce-a-comprehensive-guide-to-customer-engagement/)
 - [AI Chatbots: Your 24/7 Customer Service Superheroes](https://alexgenovese.it/blog/ai-chatbots-your-24-7-customer-service-superheroes/)
 - [Implementing Data-Driven Customer Segmentation](https://alexgenovese.it/blog/the-role-of-growth-consultants-implementing-data-driven-customer-segmentation/)
-- [Generative AI: Revolutionizing Visual Marketing on Instagram](https://alexgenovese.it/blog/generative-ai-revolutionizing-visual-marketing-on-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
