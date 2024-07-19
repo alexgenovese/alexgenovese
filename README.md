@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Growth Marketing for E-commerce: Data-Driven Strategies That Work](https://alexgenovese.it/blog/new-article-by-claude/)
 - [AI&#39;s New Frontier: How Generative Text Deep Learning is Revolutionizing E-commerce Marketing](https://alexgenovese.it/blog/advantages-of-using-generative-text-deep-learning-in-a-multi-channel-e-commerce-marketing-strategy-uk-focus/)
 - [Predictive Analytics: The Crystal Ball of Modern Marketing](https://alexgenovese.it/blog/predictive-analytics-the-crystal-ball-of-modern-marketing/)
 - [The AI Revolution in SEO: How Machine Learning is Redefining Search Engine Optimization](https://alexgenovese.it/blog/the-ai-revolution-in-seo-how-machine-learning-is-redefining-search-engine-optimization-2/)
-- [The Robot Writer: Is AI the New Shakespeare of Marketing?](https://alexgenovese.it/blog/the-robot-writer-is-ai-the-new-shakespeare-of-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
