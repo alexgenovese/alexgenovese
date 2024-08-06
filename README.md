@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Generare immagini con AI: La rivoluzione creativa a portata di click](https://alexgenovese.it/blog/generare-immagini-con-ai-la-rivoluzione-creativa-a-portata-di-click/)
+- [Generare immagini con AI gratis con Reica](https://alexgenovese.it/blog/generare-immagini-con-ai-gratis-con-reica/)
 - [Data-Driven Marketing in E-commerce Market in 2024](https://alexgenovese.it/blog/data-driven-marketing-in-e-commerce-market-in-2024/)
 - [Unlocking the Power of Customer Segmentation: Strategies for Targeted Marketing](https://alexgenovese.it/blog/unlocking-the-power-of-customer-segmentation-strategies-for-targeted-marketing/)
-- [Mastering Growth Marketing for E-commerce: Data-Driven Strategies That Work](https://alexgenovese.it/blog/new-article-by-claude/)
-- [AI&#39;s New Frontier: How Generative Text Deep Learning is Revolutionizing E-commerce Marketing](https://alexgenovese.it/blog/advantages-of-using-generative-text-deep-learning-in-a-multi-channel-e-commerce-marketing-strategy-uk-focus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
