@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Increase Customer Lifetime Value &lpar;CLV&rpar; and Using Google Analytics and Data Studio](https://alexgenovese.it/blog/customer-lifetime-value-using-ga/)
+- [How Data Analytics is Transforming Business Decisions in 2024](https://alexgenovese.it/blog/how-data-analytics-is-transforming-business-decisions-in-2024/)
+- [How to Optimize Your Content for SEO in 2024](https://alexgenovese.it/blog/how-to-optimize-your-content-for-seo-in-2024/)
 - [Generare immagini con AI: La rivoluzione creativa a portata di click](https://alexgenovese.it/blog/generare-immagini-con-ai-la-rivoluzione-creativa-a-portata-di-click/)
-- [Generare immagini con AI gratis con Reica](https://alexgenovese.it/blog/generare-immagini-con-ai-gratis-con-reica/)
-- [Data-Driven Marketing in E-commerce Market in 2024](https://alexgenovese.it/blog/data-driven-marketing-in-e-commerce-market-in-2024/)
-- [Unlocking the Power of Customer Segmentation: Strategies for Targeted Marketing](https://alexgenovese.it/blog/unlocking-the-power-of-customer-segmentation-strategies-for-targeted-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
