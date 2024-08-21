@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Come Creare un Brand di E-commerce Automatico: La Guida Completa](https://alexgenovese.it/blog/come-creare-un-brand-di-e-commerce-automatico-la-guida-completa/)
 - [Automatic ecommerce brand: la marginalità come fattore determinante per la crescita](https://alexgenovese.it/blog/strategie-ecommerce-business-con-bassa-marginalita/)
 - [How Data Analytics is Transforming Business Decisions in 2024](https://alexgenovese.it/blog/how-data-analytics-is-transforming-business-decisions-in-2024/)
 - [How to Optimize Your Content for SEO in 2024](https://alexgenovese.it/blog/how-to-optimize-your-content-for-seo-in-2024/)
-- [Generare immagini con AI: La rivoluzione creativa a portata di click](https://alexgenovese.it/blog/generare-immagini-con-ai-la-rivoluzione-creativa-a-portata-di-click/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
