@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Boost Sales with Google Search Console: A Comprehensive Guide](https://alexgenovese.it/blog/how-to-boost-sales-with-google-search-console-a-comprehensive-guide/)
 - [Come Creare un Brand di E-commerce Automatico: La Guida Completa](https://alexgenovese.it/blog/come-creare-un-brand-di-e-commerce-automatico-la-guida-completa/)
 - [Automatic ecommerce brand: la marginalità come fattore determinante per la crescita](https://alexgenovese.it/blog/strategie-ecommerce-business-con-bassa-marginalita/)
 - [How Data Analytics is Transforming Business Decisions in 2024](https://alexgenovese.it/blog/how-data-analytics-is-transforming-business-decisions-in-2024/)
-- [How to Optimize Your Content for SEO in 2024](https://alexgenovese.it/blog/how-to-optimize-your-content-for-seo-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
