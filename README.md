@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Customer Segmentation Using Machine Learning: A Complete Guide 2024](https://alexgenovese.it/blog/creating-customer-segmentation-using-machine-learning-a-complete-guide-2024/)
 - [Actionable Tips for Improving Your Conversion Rate Based on Customer Segmentation](https://alexgenovese.it/blog/actionable-tips-for-improving-your-conversion-rate-based-on-customer-segmentation/)
 - [Maximizing Customer Lifetime Value through Data Analysis in E-commerce](https://alexgenovese.it/blog/maximizing-customer-lifetime-value-through-data-analysis-in-e-commerce/)
 - [Race Framework Marketing: A Practical Guide with Examples](https://alexgenovese.it/blog/race-framework-marketing-a-practical-guide-with-examples/)
-- [The Ultimate Guide to Customer Value Optimization &lpar;CVO&rpar;](https://alexgenovese.it/blog/the-ultimate-guide-to-customer-value-optimization-cvo-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
