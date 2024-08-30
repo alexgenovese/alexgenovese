@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Customer Lifetime Value &lpar;CLV&rpar;](https://alexgenovese.it/blog/understanding-customer-lifetime-value-clv/)
 - [How to Calculate Average Time Between Orders: A Step-by-Step Guide](https://alexgenovese.it/blog/how-to-calculate-average-time-between-orders-a-step-by-step-guide/)
 - [Creating Customer Segmentation Using Machine Learning: A Complete Guide 2024](https://alexgenovese.it/blog/creating-customer-segmentation-using-machine-learning-a-complete-guide-2024/)
 - [Actionable Tips for Improving Your Conversion Rate Based on Customer Segmentation](https://alexgenovese.it/blog/actionable-tips-for-improving-your-conversion-rate-based-on-customer-segmentation/)
-- [Maximizing Customer Lifetime Value through Data Analysis in E-commerce](https://alexgenovese.it/blog/maximizing-customer-lifetime-value-through-data-analysis-in-e-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
