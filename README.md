@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How are AI image generators changing the creative process in advertising](https://alexgenovese.it/blog/how-are-ai-image-generators-changing-the-creative-process-in-advertising/)
 - [Unlocking the Power of EXIF Data](https://alexgenovese.it/blog/remove-exif-data-from-photo/)
 - [EXIF Data in Images: Unlocking Hidden Insights for Marketing](https://alexgenovese.medium.com/exif-data-in-images-unlocking-hidden-insights-for-marketing-02b00b6de3ed?source=rss-7c856fc71355------2)
 - [Understanding Customer Lifetime Value &lpar;CLV&rpar;](https://alexgenovese.it/blog/understanding-customer-lifetime-value-clv/)
-- [How to Calculate Average Time Between Orders: A Step-by-Step Guide](https://alexgenovese.it/blog/how-to-calculate-average-time-between-orders-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
