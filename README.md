@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why having a data-driven strategy is the best way to grow your business](https://alexgenovese.it/blog/why-having-a-data-driven-strategy-is-the-best-way-to-grow-your-business/)
 - [Ottimizzare le strategie di targeting dei cluster clienti](https://alexgenovese.it/blog/ottimizzare-le-strategie-di-targeting-dei-cluster-clienti/)
 - [Identify top-selling products for creating Dynamic Feeds](https://alexgenovese.it/blog/identify-top-selling-products-for-creating-dynamic-feeds/)
 - [How to Uplift Lifetime Value  Recommending the Right Products in Ads Campaigns](https://alexgenovese.it/blog/how-to-uplift-lifetime-value-recommending-right-products-in-ads-campaigns/)
-- [Revolutionize Fashion E-commerce with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://alexgenovese.it/blog/revolutionize-fashion-e-commerce-with-retrieval-augmented-generation-rag/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
