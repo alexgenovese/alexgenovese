@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ottimizzare le strategie di targeting dei cluster clienti](https://alexgenovese.it/blog/ottimizzare-le-strategie-di-targeting-dei-cluster-clienti/)
 - [Identify top-selling products for creating Dynamic Feeds](https://alexgenovese.it/blog/identify-top-selling-products-for-creating-dynamic-feeds/)
 - [How to Uplift Lifetime Value  Recommending the Right Products in Ads Campaigns](https://alexgenovese.it/blog/how-to-uplift-lifetime-value-recommending-right-products-in-ads-campaigns/)
 - [Revolutionize Fashion E-commerce with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://alexgenovese.it/blog/revolutionize-fashion-e-commerce-with-retrieval-augmented-generation-rag/)
-- [Come posso integrare la RAG nei miei canali di marketing digitale](https://alexgenovese.it/blog/come-posso-integrare-la-rag-nei-miei-canali-di-marketing-digitale/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
