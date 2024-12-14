@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your E-Commerce Game: Unleashing Conversion Rate Optimization Power](https://alexgenovese.it/blog/elevate-your-e-commerce-game-unleashing-conversion-rate-optimization-power/)
 - [Revolutionize Your Business: Cutting-Edge E-Commerce Growth Strategies](https://alexgenovese.it/blog/revolutionize-your-business-cutting-edge-e-commerce-growth-strategies/)
 - [Quali sono i principali vantaggi di utilizzare la RAG per la generazione di contenuti digitali](https://alexgenovese.it/blog/quali-sono-i-principali-vantaggi-di-utilizzare-la-rag-per-la-generazione-di-contenuti-digitali/)
 - [Come incrociare i dati degli acquisti con le email dei clienti per migliorare il ROAS](https://alexgenovese.it/blog/come-posso-incrociare-i-dati-degli-acquisti-con-le-email-dei-clienti-per-migliorare-il-roas-2-2/)
+- [[Guida]Come posso utilizzare Integromat per creare un feed dinamico dei prodotti più acquistati](https://alexgenovese.it/blog/come-posso-utilizzare-integromat-per-creare-un-feed-dinamico-dei-prodotti-piu-acquistati/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
