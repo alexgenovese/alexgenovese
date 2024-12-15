@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Business: Cutting-Edge E-Commerce Growth Strategies](http://alexgenovese.com/revolutionize-your-business-cutting-edge-e-commerce-growth-strategies/)
-- [Quali sono i principali vantaggi di utilizzare la RAG per la generazione di contenuti digitali](http://alexgenovese.com/quali-sono-i-principali-vantaggi-di-utilizzare-la-rag-per-la-generazione-di-contenuti-digitali/)
-- [Come incrociare i dati degli acquisti con le email dei clienti per migliorare il ROAS](http://alexgenovese.com/come-posso-incrociare-i-dati-degli-acquisti-con-le-email-dei-clienti-per-migliorare-il-roas-2-2/)
-- [[Guida]Come posso utilizzare Integromat per creare un feed dinamico dei prodotti più acquistati](http://alexgenovese.com/come-posso-utilizzare-integromat-per-creare-un-feed-dinamico-dei-prodotti-piu-acquistati/)
+- [Revolutionize Your Business: Cutting-Edge E-Commerce Growth Strategies](https://alexgenovese.com/revolutionize-your-business-cutting-edge-e-commerce-growth-strategies/)
+- [Quali sono i principali vantaggi di utilizzare la RAG per la generazione di contenuti digitali](https://alexgenovese.com/quali-sono-i-principali-vantaggi-di-utilizzare-la-rag-per-la-generazione-di-contenuti-digitali/)
+- [Come incrociare i dati degli acquisti con le email dei clienti per migliorare il ROAS](https://alexgenovese.com/come-posso-incrociare-i-dati-degli-acquisti-con-le-email-dei-clienti-per-migliorare-il-roas-2-2/)
+- [[Guida]Come posso utilizzare Integromat per creare un feed dinamico dei prodotti più acquistati](https://alexgenovese.com/come-posso-utilizzare-integromat-per-creare-un-feed-dinamico-dei-prodotti-piu-acquistati/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
