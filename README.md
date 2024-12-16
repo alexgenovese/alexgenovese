@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Sales: Mastering E-Commerce Social Media Advertising](https://alexgenovese.com/boost-your-sales-mastering-e-commerce-social-media-advertising/)
 - [Elevate Your E-Commerce Game: Unleashing Conversion Rate Optimization Power](https://alexgenovese.com/elevate-your-e-commerce-game-unleashing-conversion-rate-optimization-power/)
 - [Revolutionize Your Business: Cutting-Edge E-Commerce Growth Strategies](https://alexgenovese.com/revolutionize-your-business-cutting-edge-e-commerce-growth-strategies/)
 - [Quali sono i principali vantaggi di utilizzare la RAG per la generazione di contenuti digitali](https://alexgenovese.com/quali-sono-i-principali-vantaggi-di-utilizzare-la-rag-per-la-generazione-di-contenuti-digitali/)
-- [Come incrociare i dati degli acquisti con le email dei clienti per migliorare il ROAS](https://alexgenovese.com/come-posso-incrociare-i-dati-degli-acquisti-con-le-email-dei-clienti-per-migliorare-il-roas-2-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
