@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How to Create an Email Sequence System for E-Commerce Customers](https://alexgenovese.com/how-to-create-an-email-sequence-system-for-e-commerce-customers/)
 - [Boost Your Sales: Mastering E-Commerce Social Media Advertising](https://alexgenovese.com/boost-your-sales-mastering-e-commerce-social-media-advertising/)
 - [Elevate Your E-Commerce Game: Unleashing Conversion Rate Optimization Power](https://alexgenovese.com/elevate-your-e-commerce-game-unleashing-conversion-rate-optimization-power/)
 - [Revolutionize Your Business: Cutting-Edge E-Commerce Growth Strategies](https://alexgenovese.com/revolutionize-your-business-cutting-edge-e-commerce-growth-strategies/)
-- [Quali sono i principali vantaggi di utilizzare la RAG per la generazione di contenuti digitali](https://alexgenovese.com/quali-sono-i-principali-vantaggi-di-utilizzare-la-rag-per-la-generazione-di-contenuti-digitali/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
