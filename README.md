@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Martech: Shaping the Future of Marketing in 2025](https://alexgenovese.com/the-evolution-of-martech-shaping-the-future-of-marketing-in-2025/)
 - [Why Your Business Needs to Embrace Omnichannel Engagement &lpar;Like, Yesterday!&rpar;](https://alexgenovese.com/why-your-business-needs-to-embrace-omnichannel-engagement/)
 - [Driving Growth: The Blueprint of Prosperous E-Commerce Businesses](https://alexgenovese.com/driving-growth-the-blueprint-of-prosperous-e-commerce-businesses/)
 - [Retrieval Augmented Generation &lpar;RAG&rpar; in Marketing Automation: A Step-by-Step Guide](https://alexgenovese.com/retrieval-augmented-generation-rag-in-marketing-automation-a-step-by-step-guide/)
-- [🚀 How to Create an Email Sequence System for E-Commerce Customers](https://alexgenovese.com/how-to-create-an-email-sequence-system-for-e-commerce-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
