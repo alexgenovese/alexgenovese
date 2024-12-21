@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement RAG in Marketing: Practical Applications for 2025](https://alexgenovese.com/how-to-implement-rag-in-marketing-practical-applications-for-2025/)
 - [The Evolution of Martech: Shaping the Future of Marketing in 2025](https://alexgenovese.com/the-evolution-of-martech-shaping-the-future-of-marketing-in-2025/)
 - [Why Your Business Needs to Embrace Omnichannel Engagement &lpar;Like, Yesterday!&rpar;](https://alexgenovese.com/why-your-business-needs-to-embrace-omnichannel-engagement/)
 - [Driving Growth: The Blueprint of Prosperous E-Commerce Businesses](https://alexgenovese.com/driving-growth-the-blueprint-of-prosperous-e-commerce-businesses/)
-- [Retrieval Augmented Generation &lpar;RAG&rpar; in Marketing Automation: A Step-by-Step Guide](https://alexgenovese.com/retrieval-augmented-generation-rag-in-marketing-automation-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
