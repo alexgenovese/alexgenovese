@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG in Fashion Retail Marketing](https://alexgenovese.com/rag-in-fashion-retail-marketing/)
 - [Why Retail Needs RAG &lpar;Retrieval-Augmented Generation&rpar;](https://alexgenovese.com/why-retail-needs-rag-retrieval-augmented-generation/)
 - [Implementing RAG for E-commerce. Email Marketing Automations with RAG](https://alexgenovese.com/implementing-rag-for-e-commerce-email-marketing-automations-with-rag/)
 - [How to Implement RAG in Marketing: Practical Applications for 2025](https://alexgenovese.com/how-to-implement-rag-in-marketing-practical-applications-for-2025/)
-- [The Evolution of Martech: Shaping the Future of Marketing in 2025](https://alexgenovese.com/the-evolution-of-martech-shaping-the-future-of-marketing-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
