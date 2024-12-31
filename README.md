@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does RAG personalize customer experiences in retail](https://alexgenovese.com/how-does-rag-personalize-customer-experiences-in-retail/)
 - [8 Examples of RAG in Action Within Retail [2025]](https://alexgenovese.medium.com/8-examples-of-rag-in-action-within-retail-2025-2f2b765c1aa3?source=rss-7c856fc71355------2)
 - [Retrieval-Augmented Generation &lpar;RAG&rpar; in Retail E-commerce: Real-World Insights and How to Implement](https://medium.com/swlh/retrieval-augmented-generation-rag-in-retail-e-commerce-real-world-insights-and-how-to-implement-02def15b8734?source=rss-7c856fc71355------2)
 - [8 Examples of RAG in Action Within Retail [2025]](https://alexgenovese.com/8-examples-of-rag-in-action-within-retail-2025/)
-- [RAG in Fashion Retail Marketing](https://alexgenovese.com/rag-in-fashion-retail-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
