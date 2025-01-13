@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Come Utilizzare i RAG per Personalizzare l&#39;E-commerce: Guida Completa 2025](https://alexgenovese.com/come-utilizzare-i-rag-per-personalizzare-le-commerce-guida-completa-2025/)
 - [Real-World applications of RAG in Retail: drive customized product recommendation system](https://alexgenovese.com/real-world-applications-of-rag-in-retail-drive-customized-product-recommendation-system-2/)
 - [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.medium.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience-bbffff19c0cb?source=rss-7c856fc71355------2)
 - [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience/)
-- [What is RAG pipeline?](https://alexgenovese.com/what-is-rag-pipeline-2025-retail-and-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
