@@ -14,7 +14,7 @@
 - [Real-World applications of RAG in Retail: drive customized product recommendation system](https://alexgenovese.com/real-world-applications-of-rag-in-retail-drive-customized-product-recommendation-system-2/)
 - [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.medium.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience-bbffff19c0cb?source=rss-7c856fc71355------2)
 - [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience/)
-- [How I Helped a small fashion store to scale from €1,500 to €15,000 monthly sales in one year](https://alexgenovese.com/how-i-helped-a-small-fashion-store-to-scale-from-eu1-500-to-eu15-000-monthly-sales-in-one-year/)
+- [What is RAG pipeline?](https://alexgenovese.com/what-is-rag-pipeline-2025-retail-and-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
