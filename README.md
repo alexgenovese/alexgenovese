@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.medium.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience-bbffff19c0cb?source=rss-7c856fc71355------2)
 - [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience/)
 - [How I Helped a small fashion store to scale from €1,500 to €15,000 monthly sales in one year](https://alexgenovese.com/how-i-helped-a-small-fashion-store-to-scale-from-eu1-500-to-eu15-000-monthly-sales-in-one-year/)
-- [Analyze Reddit Communities with RAG to find pains and ICPs](https://alexgenovese.com/analyze-reddit-communities-with-rag-to-find-pains-and-icps/)
-- [How does RAG personalize customer experiences in retail](https://alexgenovese.com/how-does-rag-personalize-customer-experiences-in-retail/)
+- [Analyze Reddit Communities with RAG to find pains and ICPs](https://medium.datadriveninvestor.com/analyze-reddit-communities-with-rag-to-find-pains-and-icps-64db8a07421c?source=rss-7c856fc71355------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
