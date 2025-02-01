@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an intelligent Personal Shopper Chatbot using RAG workflow](https://alexgenovese.com/building-an-intelligent-personal-shopper-chatbot-using-rag-workflow/)
 - [Build a RAG Chatbot with n8n: Seamless Data Integration for Accurate Responses – [Tutorial Step-by-Step]](https://alexgenovese.com/build-a-rag-chatbot-with-n8n-seamless-data-integration-for-accurate-responses/)
 - [How I Helped a Home Accessories Store Scale from €150,000 to €550,000 Monthly Revenue in Three Years](https://alexgenovese.com/how-i-helped-a-home-accessories-store-scale-from-eu150-000-to-eu550-000-monthly-revenue-in-three-years/)
 - [Revolutionizing Customer Support: Building Intelligent RAG-Powered Retail Chatbots 🤖](https://alexgenovese.com/revolutionizing-customer-support-building-intelligent-rag-powered-retail-chatbots/)
-- [Come Utilizzare i RAG per Personalizzare l&#39;E-commerce: Guida Completa 2025](https://alexgenovese.com/come-utilizzare-i-rag-per-personalizzare-le-commerce-guida-completa-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
