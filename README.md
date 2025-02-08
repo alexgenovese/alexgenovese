@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Embedding customized product recommendations in E-Commerce](https://alexgenovese.com/embedding-customized-product-recommendations-in-e-commerce/)
 - [How to Provide Personalized Product Recommendations Based on User Queries: A 2025 Guide](https://alexgenovese.com/customer-support-resolution-with-rag-through-chatbot-for-retail-h/)
 - [Building an intelligent Personal Shopper Chatbot using RAG workflow](https://alexgenovese.com/building-an-intelligent-personal-shopper-chatbot-using-rag-workflow/)
 - [Build a RAG Chatbot with n8n: Seamless Data Integration for Accurate Responses – [Tutorial Step-by-Step]](https://alexgenovese.com/build-a-rag-chatbot-with-n8n-seamless-data-integration-for-accurate-responses/)
-- [How I Helped a Home Accessories Store Scale from €150,000 to €550,000 Monthly Revenue in Three Years](https://alexgenovese.com/how-i-helped-a-home-accessories-store-scale-from-eu150-000-to-eu550-000-monthly-revenue-in-three-years/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
