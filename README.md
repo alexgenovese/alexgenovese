@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Propensity to Buy Algorithms: Transforming Retail and Fashion with Data-Driven Insights](https://alexgenovese.com/propensity-to-buy-algorithms-transforming-retail-and-fashion-with-data-driven-insights/)
-- [Algoritmi di Propensity to Buy: Una Panoramica Completa](https://alexgenovese.com/algoritmi-di-propensity-to-buy-una-panoramica-completa/)
-- [Embedding customized product recommendations in E-Commerce](https://alexgenovese.com/embedding-customized-product-recommendations-in-e-commerce/)
-- [How to Provide Personalized Product Recommendations Based on User Queries: A 2025 Guide](https://alexgenovese.com/customer-support-resolution-with-rag-through-chatbot-for-retail-h/)
+- [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.medium.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience-bbffff19c0cb?source=rss-7c856fc71355------2)
+- [Analyze Reddit Communities with RAG to find pains and ICPs](https://medium.datadriveninvestor.com/analyze-reddit-communities-with-rag-to-find-pains-and-icps-64db8a07421c?source=rss-7c856fc71355------2)
+- [8 Examples of RAG in Action Within Retail [2025]](https://alexgenovese.medium.com/8-examples-of-rag-in-action-within-retail-2025-2f2b765c1aa3?source=rss-7c856fc71355------2)
+- [Retrieval-Augmented Generation &lpar;RAG&rpar; in Retail E-commerce: Real-World Insights and How to Implement](https://medium.com/swlh/retrieval-augmented-generation-rag-in-retail-e-commerce-real-world-insights-and-how-to-implement-02def15b8734?source=rss-7c856fc71355------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
