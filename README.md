@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexgenovese" target="blank"><img src="https://img.shields.io/twitter/follow/alexgenovese?logo=twitter&style=for-the-badge" alt="alexgenovese" /></a> </p>
 
-- 🔭 I’m currently working on [Reica](https://getreica.com) – Generative AI product --> [Subscribe to beta!](https://getreica.com)
+- 🔭 I’m currently working on [Reica](https://getreica.com) – The generative photo editing studio --> [Sign up and get free credits!](https://getreica.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
