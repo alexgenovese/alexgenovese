@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Propensity to Buy Algorithms: Technical Foundations and Applications in E-Commerce](https://alexgenovese.com/propensity-to-buy-algorithms-technical-foundations-and-applications-in-e-commerce/)
 - [Propensity to Buy Algorithms: Transforming Retail and Fashion with Data-Driven Insights](https://alexgenovese.com/propensity-to-buy-algorithms-transforming-retail-and-fashion-with-data-driven-insights/)
 - [Algoritmi di Propensity to Buy: Una Panoramica Completa](https://alexgenovese.com/algoritmi-di-propensity-to-buy-una-panoramica-completa/)
 - [Embedding customized product recommendations in E-Commerce](https://alexgenovese.com/embedding-customized-product-recommendations-in-e-commerce/)
-- [How to Provide Personalized Product Recommendations Based on User Queries: A 2025 Guide](https://alexgenovese.com/customer-support-resolution-with-rag-through-chatbot-for-retail-h/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
