@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a RAG Workflow in n8n for Retail Product Recommendations for Shopify](https://alexgenovese.com/how-to-build-a-rag-workflow-in-n8n-for-retail-product-recommendations-for-shopify/)
+- [The 9 Essential Marketing KPIs for 2025: Your Complete Guide to Business &amp; Efficiency Metrics](https://alexgenovese.com/the-9-essential-marketing-kpis-for-2025-your-complete-guide-to-business-efficiency-metrics/)
+- [KPI Marketing 2025: La Guida Definitiva ai 9 Indicatori Essenziali per una Strategia Data-Driven](https://alexgenovese.com/kpi-marketing-2025-la-guida-definitiva-ai-9-indicatori-essenziali-per-una-strategia-data-driven/)
 - [Propensity to Buy Algorithms: Technical Foundations and Applications in E-Commerce](https://alexgenovese.com/propensity-to-buy-algorithms-technical-foundations-and-applications-in-e-commerce/)
-- [Propensity to Buy Algorithms: Transforming Retail and Fashion with Data-Driven Insights](https://alexgenovese.com/propensity-to-buy-algorithms-transforming-retail-and-fashion-with-data-driven-insights/)
-- [Algoritmi di Propensity to Buy: Una Panoramica Completa](https://alexgenovese.com/algoritmi-di-propensity-to-buy-una-panoramica-completa/)
-- [Embedding customized product recommendations in E-Commerce](https://alexgenovese.com/embedding-customized-product-recommendations-in-e-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
