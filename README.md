@@ -22,8 +22,6 @@ Serial founder and CTO with 22+ years of experience in **full-stack innovation**
 - **Founder of [Reica](https://getreica.com)** — AI visual generation platform deploying diffusion models & text-to-image technology
   - Handling **7M+ monthly API calls**
   - Driving **35% productivity gains** and **25% cost efficiencies** in MarTech/e-commerce
-  
-- **Founder of [TryOnMe](https://tryonme.shop)** — Virtual try-on AI for fashion
 
 - **Bootstrapped Hubstrat** — 30% YoY growth, serving clients like **PepsiCo** and **Hitachi Rail**
 
@@ -36,6 +34,12 @@ Serial founder and CTO with 22+ years of experience in **full-stack innovation**
 | ROAS Optimization | **+40%** via BigQuery/Dataflow |
 | Team Leadership | Up to **150 cross-functional members** in Agile Scrum |
 | On-time Delivery | **90%** consistency |
+
+### 🎓 Certifications & Courses
+
+- **Harvard Business School Online** — Business Analytics Certification
+- **Specialized Training:** Advanced courses in Generative AI, Machine Learning, and Data Strategy
+- **Continuous Learning:** Regular participation in AI/ML workshops and industry conferences
 
 ### 🛠️ Tech Stack Focus
 
@@ -75,6 +79,10 @@ Collaborated with **Luxottica North America**, **D-Orbit** (500+ employees), and
 <a href="https://linkedin.com/in/alexgenovese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexgenovese" height="30" width="40" /></a>
 <a href="https://kaggle.com/alexgenovese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexgenovese" height="30" width="40" /></a>
 <a href="https://medium.com/@alexgenovese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexgenovese" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+  <strong>📱 Follow my professional journey:</strong> <a href="https://www.linkedin.com/in/alexgenovese/" target="_blank">LinkedIn Feed</a> | <a href="https://twitter.com/alexgenovese" target="_blank">Twitter Updates</a>
 </p>
 
 ---
