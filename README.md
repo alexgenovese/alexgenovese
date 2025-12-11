@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Personalization and RAG for Ecommerce: How to Increase Conversions in 2026](https://alexgenovese.com/ai-personalization-and-rag-for-ecommerce-how-to-increase-conversions-in-2026/)
 - [How RAG is Revolutionizing Retail: The Future of Hyper-Personalized Product Recommendations](https://alexgenovese.com/how-rag-is-revolutionizing-retail-the-future-of-hyper-personalized-product-recommendations/)
 - [How to Build a RAG Workflow in n8n for Retail Product Recommendations for Shopify](https://alexgenovese.com/how-to-build-a-rag-workflow-in-n8n-for-retail-product-recommendations-for-shopify/)
 - [The 9 Essential Marketing KPIs for 2025: Your Complete Guide to Business &amp; Efficiency Metrics](https://alexgenovese.com/the-9-essential-marketing-kpis-for-2025-your-complete-guide-to-business-efficiency-metrics/)
-- [KPI Marketing 2025: La Guida Definitiva ai 9 Indicatori Essenziali per una Strategia Data-Driven](https://alexgenovese.com/kpi-marketing-2025-la-guida-definitiva-ai-9-indicatori-essenziali-per-una-strategia-data-driven/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
