@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a RAG‑Powered Recommendation System](https://alexgenovese.com/rag-powered-recommendation-system/)
 - [AEO Content Automation: Open-Source LLM + n8n to WordPress](https://alexgenovese.com/aeo-content-automation-n8n-open-source-llm-wordpress/)
 - [AI Personalization and RAG for Ecommerce: How to Increase Conversions in 2026](https://alexgenovese.com/ai-personalization-and-rag-for-ecommerce-how-to-increase-conversions-in-2026/)
 - [How RAG is Revolutionizing Retail: The Future of Hyper-Personalized Product Recommendations](https://alexgenovese.com/how-rag-is-revolutionizing-retail-the-future-of-hyper-personalized-product-recommendations/)
-- [How to Build a RAG Workflow in n8n for Retail Product Recommendations for Shopify](https://alexgenovese.com/how-to-build-a-rag-workflow-in-n8n-for-retail-product-recommendations-for-shopify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
