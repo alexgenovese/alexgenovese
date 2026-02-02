@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Team of Rivals for AI: Reliable Multi-Agent Systems with CrewAI](https://alexgenovese.com/team-of-rivals-ai-crewai-multi-agent-systems/)
 - [AEO Content Checklist: Write Answer‑Ready Pages That Win AI Visibility](https://alexgenovese.com/aeo-content-checklist/)
 - [Self-Hosted LLM Stack: A Practical Guide to Running Models On-Prem &lpar;and Shipping to Production&rpar;](https://alexgenovese.com/self-hosted-llm-stack-practical-guide/)
 - [Designing a RAG‑Powered Recommendation System](https://alexgenovese.com/rag-powered-recommendation-system/)
-- [AEO Content Automation: Open-Source LLM + n8n to WordPress](https://alexgenovese.com/aeo-content-automation-n8n-open-source-llm-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
