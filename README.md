@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Commerce in Fashion: How AI Shopping Agents Change Ecommerce in 2026](https://alexgenovese.com/agentic-commerce-fashion-ecommerce/)
 - [Team of Rivals for AI: Reliable Multi-Agent Systems with CrewAI](https://alexgenovese.com/team-of-rivals-ai-crewai-multi-agent-systems/)
 - [AEO Content Checklist: Write Answer‑Ready Pages That Win AI Visibility](https://alexgenovese.com/aeo-content-checklist/)
 - [Self-Hosted LLM Stack: A Practical Guide to Running Models On-Prem &lpar;and Shipping to Production&rpar;](https://alexgenovese.com/self-hosted-llm-stack-practical-guide/)
-- [Designing a RAG‑Powered Recommendation System](https://alexgenovese.com/rag-powered-recommendation-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
