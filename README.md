@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an AI‑Powered Recommendation System for Ecommerce with RAG &lpar;2026 Guide&rpar;](https://alexgenovese.com/how-to-build-an-ai-powered-recommendation-system-for-ecommerce-with-rag-2026-guide/)
 - [AI Chatbot Responses Are the New SEO: An AEO Playbook for Fashion Ecommerce in 2026](https://alexgenovese.com/ai-chatbot-responses-are-the-new-seo-an-aeo-playbook-for-fashion-ecommerce-in-2026/)
 - [Agentic Commerce in Fashion: How AI Shopping Agents Change Ecommerce in 2026](https://alexgenovese.com/agentic-commerce-fashion-ecommerce/)
 - [Team of Rivals for AI: Reliable Multi-Agent Systems with CrewAI](https://alexgenovese.com/team-of-rivals-ai-crewai-multi-agent-systems/)
-- [AEO Content Checklist: Write Answer‑Ready Pages That Win AI Visibility](https://alexgenovese.com/aeo-content-checklist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
