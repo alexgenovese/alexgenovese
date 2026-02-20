@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [E-commerce Conversion Optimization: A Practical Guide &lpar;With a Real-World Example&rpar;](https://alexgenovese.com/e-commerce-conversion-optimization-a-practical-guide-with-a-real-world-example/)
 - [Build a GPT-4 RAG Chatbot with n8n and Qdrant: The Complete Guide // Step-by-Step AI Agent Tutorial](https://alexgenovese.com/build-a-gpt-4-rag-chatbot-with-n8n-and-qdrant-the-complete-guide/)
 - [AI Agent vs Chatbot: Key Differences in Autonomous Workflow Automation](https://alexgenovese.com/ai-agent-vs-chatbot-key-differences-in-autonomous-workflow-automation/)
 - [How to Build an AI‑Powered Recommendation System for Ecommerce with RAG &lpar;2026 Guide&rpar;](https://alexgenovese.com/how-to-build-an-ai-powered-recommendation-system-for-ecommerce-with-rag-2026-guide/)
-- [AI Chatbot Responses Are the New SEO: An AEO Playbook for Fashion Ecommerce in 2026](https://alexgenovese.com/ai-chatbot-responses-are-the-new-seo-an-aeo-playbook-for-fashion-ecommerce-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
