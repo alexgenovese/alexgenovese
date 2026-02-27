@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG for B2B SaaS: How to Use Retrieval-Augmented Generation Across the Customer Lifecycle](https://alexgenovese.com/rag-for-b2b-saas-how-to-use-retrieval-augmented-generation-across-the-customer-lifecycle/)
 - [E-commerce Conversion Optimization: A Practical Guide &lpar;With a Real-World Example&rpar;](https://alexgenovese.com/e-commerce-conversion-optimization-a-practical-guide-with-a-real-world-example/)
 - [Build a GPT-4 RAG Chatbot with n8n and Qdrant: The Complete Guide // Step-by-Step AI Agent Tutorial](https://alexgenovese.com/build-a-gpt-4-rag-chatbot-with-n8n-and-qdrant-the-complete-guide/)
 - [AI Agent vs Chatbot: Key Differences in Autonomous Workflow Automation](https://alexgenovese.com/ai-agent-vs-chatbot-key-differences-in-autonomous-workflow-automation/)
-- [How to Build an AI‑Powered Recommendation System for Ecommerce with RAG &lpar;2026 Guide&rpar;](https://alexgenovese.com/how-to-build-an-ai-powered-recommendation-system-for-ecommerce-with-rag-2026-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
