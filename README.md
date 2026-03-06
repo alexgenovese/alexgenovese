@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Extreme Token Efficiency: Porting the Zoe Method to CrewAI](https://alexgenovese.com/scaling-extreme-token-efficiency-porting-the-zoe-method-to-crewai/)
 - [AEO for B2B SaaS: The Complete Playbook to Get Cited by ChatGPT and Perplexity](https://alexgenovese.com/aeo-for-b2b-saas-the-complete-playbook-to-get-cited-by-chatgpt-and-perplexity/)
 - [Agentic AI in B2B SaaS Marketing: What CMOs Need to Know in 2026](https://alexgenovese.com/agentic-ai-in-b2b-saas-marketing-what-cmos-need-to-know-in-2026/)
 - [What Is RAG for E-commerce? The Complete Guide to Retrieval-Augmented Generation in Retail &lpar;2026&rpar;](https://alexgenovese.com/what-is-rag-for-e-commerce-the-complete-guide-to-retrieval-augmented-generation-in-retail-2026/)
-- [RAG for B2B SaaS: How to Use Retrieval-Augmented Generation Across the Customer Lifecycle](https://alexgenovese.com/rag-for-b2b-saas-how-to-use-retrieval-augmented-generation-across-the-customer-lifecycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
