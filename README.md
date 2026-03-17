@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent AI Systems for Marketing Teams: A Practical Guide to CrewAI in 2026](https://alexgenovese.com/multi-agent-ai-systems-for-marketing-teams-a-practical-guide-to-crewai-in-2026/)
-- [RAG for B2B SaaS: How to Use Retrieval-Augmented Generation to Personalize the Entire Customer Journey](https://alexgenovese.com/rag-for-b2b-saas-how-to-use-retrieval-augmented-generation-to-personalize-the-entire-customer-journey/)
-- [How to Build a Propensity-to-Buy Model Without a Data Science Team &lpar;SaaS &amp; B2B E-commerce&rpar;](https://alexgenovese.com/how-to-build-a-propensity-to-buy-model-without-a-data-science-team-saas-b2b-e-commerce/)
-- [Scaling Extreme Token Efficiency: Porting the Zoe Method to CrewAI](https://alexgenovese.com/scaling-extreme-token-efficiency-porting-the-zoe-method-to-crewai/)
+- [AEO vs SEO: Complete 2026 Comparison for Digital Marketing](https://alexgenovese.com/aeo-vs-seo-complete-2026-comparison-for-digital-marketing/)
+- [RAG vs Fine‑Tuning for Ecommerce: Complete 2026 Comparison](https://alexgenovese.com/rag-vs-fine-tuning-for-ecommerce-complete-2026-comparison/)
+- [ChatGPT vs Perplexity for B2B Marketing: Complete 2026 Comparison](https://alexgenovese.com/chatgpt-vs-perplexity-for-b2b-marketing-complete-2026-comparison/)
+- [CrewAI vs LangChain for Marketing: Complete 2026 Comparison](https://alexgenovese.com/crewai-vs-langchain-for-marketing-complete-2026-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
