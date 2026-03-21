@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Digital Agencies Can Resell AI Marketing Services: A Practical Pricing and Delivery Framework](https://alexgenovese.com/how-digital-agencies-can-resell-ai-marketing-services-a-practical-pricing-and-delivery-framework/)
 - [Cookieless Tracking for B2B SaaS: How to Measure Marketing Without Third-Party Cookies in GA4](https://alexgenovese.com/cookieless-tracking-for-b2b-saas-how-to-measure-marketing-without-third-party-cookies-in-ga4/)
 - [AEO vs SEO: Complete 2026 Comparison for Digital Marketing](https://alexgenovese.com/aeo-vs-seo-complete-2026-comparison-for-digital-marketing/)
 - [RAG vs Fine‑Tuning for Ecommerce: Complete 2026 Comparison](https://alexgenovese.com/rag-vs-fine-tuning-for-ecommerce-complete-2026-comparison/)
-- [ChatGPT vs Perplexity for B2B Marketing: Complete 2026 Comparison](https://alexgenovese.com/chatgpt-vs-perplexity-for-b2b-marketing-complete-2026-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
