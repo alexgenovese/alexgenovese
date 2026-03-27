@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free-to-Paid Conversion in 2026: What 200 B2B Products Reveal About Revenue Growth](https://alexgenovese.com/free-to-paid-conversion-in-2026-what-200-b2b-products-reveal-about-revenue-growth/)
 - [How to Use Reddit and Community Data with RAG to Identify ICPs and Buyer Pain Points](https://alexgenovese.com/how-to-use-reddit-and-community-data-with-rag-to-identify-icps-and-buyer-pain-points/)
 - [Customer Value Optimization &lpar;CVO&rpar; for B2B E-commerce: RFM, CLV and Propensity Models Combined](https://alexgenovese.com/customer-value-optimization-cvo-for-b2b-e-commerce-rfm-clv-and-propensity-models-combined/)
 - [How Digital Agencies Can Resell AI Marketing Services: A Practical Pricing and Delivery Framework](https://alexgenovese.com/how-digital-agencies-can-resell-ai-marketing-services-a-practical-pricing-and-delivery-framework/)
-- [Cookieless Tracking for B2B SaaS: How to Measure Marketing Without Third-Party Cookies in GA4](https://alexgenovese.com/cookieless-tracking-for-b2b-saas-how-to-measure-marketing-without-third-party-cookies-in-ga4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
