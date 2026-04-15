@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [duty-free.cc](https://alexgenovese.com/duty-free-cc/)
 - [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.medium.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience-bbffff19c0cb?source=rss-7c856fc71355------2)
 - [Analyze Reddit Communities with RAG to find pains and ICPs](https://medium.datadriveninvestor.com/analyze-reddit-communities-with-rag-to-find-pains-and-icps-64db8a07421c?source=rss-7c856fc71355------2)
 - [8 Examples of RAG in Action Within Retail [2025]](https://alexgenovese.medium.com/8-examples-of-rag-in-action-within-retail-2025-2f2b765c1aa3?source=rss-7c856fc71355------2)
-- [Retrieval-Augmented Generation &lpar;RAG&rpar; in Retail E-commerce: Real-World Insights and How to Implement](https://medium.com/swlh/retrieval-augmented-generation-rag-in-retail-e-commerce-real-world-insights-and-how-to-implement-02def15b8734?source=rss-7c856fc71355------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
