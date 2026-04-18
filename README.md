@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [duty-free.cc](https://alexgenovese.com/duty-free-cc/)
-- [Revolutionizing Retail: The Power of RAG in Enhancing Customer Experience](https://alexgenovese.medium.com/revolutionizing-retail-the-power-of-rag-in-enhancing-customer-experience-bbffff19c0cb?source=rss-7c856fc71355------2)
-- [Analyze Reddit Communities with RAG to find pains and ICPs](https://medium.datadriveninvestor.com/analyze-reddit-communities-with-rag-to-find-pains-and-icps-64db8a07421c?source=rss-7c856fc71355------2)
-- [8 Examples of RAG in Action Within Retail [2025]](https://alexgenovese.medium.com/8-examples-of-rag-in-action-within-retail-2025-2f2b765c1aa3?source=rss-7c856fc71355------2)
+- [Free-to-Paid Conversion in 2026: What 200 B2B Products Reveal About Revenue Growth](https://alexgenovese.com/free-to-paid-conversion-in-2026-what-200-b2b-products-reveal-about-revenue-growth/)
+- [How to Use Reddit and Community Data with RAG to Identify ICPs and Buyer Pain Points](https://alexgenovese.com/how-to-use-reddit-and-community-data-with-rag-to-identify-icps-and-buyer-pain-points/)
+- [Customer Value Optimization &lpar;CVO&rpar; for B2B E-commerce: RFM, CLV and Propensity Models Combined](https://alexgenovese.com/customer-value-optimization-cvo-for-b2b-e-commerce-rfm-clv-and-propensity-models-combined/)
+- [How Digital Agencies Can Resell AI Marketing Services: A Practical Pricing and Delivery Framework](https://alexgenovese.com/how-digital-agencies-can-resell-ai-marketing-services-a-practical-pricing-and-delivery-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
