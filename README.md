@@ -222,10 +222,10 @@ I maintain and contribute to projects around:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Fashion E-commerce Brands Can Use AI to Improve Retargeting and Unlock Forgotten Data](https://alexgenovese.com/how-fashion-e-commerce-brands-can-use-ai-to-improve-retargeting-and-unlock-forgotten-data/)
 - [From Chatbot to Intelligence Crew: Building a Multi-Agent RAG System for Fashion E-commerce with CrewAI](https://alexgenovese.com/from-chatbot-to-intelligence-crew-building-a-multi-agent-rag-system-for-fashion-e-commerce-with-crewai/)
 - [The State of B2B Marketing Teams in 2026](https://alexgenovese.com/the-state-of-b2b-marketing-teams-in-20/)
 - [Free-to-Paid Conversion in 2026: What 200 B2B Products Reveal About Revenue Growth](https://alexgenovese.com/free-to-paid-conversion-in-2026-what-200-b2b-products-reveal-about-revenue-growth/)
-- [How to Use Reddit and Community Data with RAG to Identify ICPs and Buyer Pain Points](https://alexgenovese.com/how-to-use-reddit-and-community-data-with-rag-to-identify-icps-and-buyer-pain-points/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
