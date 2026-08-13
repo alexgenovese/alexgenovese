@@ -224,7 +224,7 @@ I maintain and contribute to projects around:
 <!-- BLOG-POST-LIST:START -->
 - [Six Levers to Reduce LLM Inference Costs](https://alexgenovese.com/six-levers-to-reduce-llm-inference-costs/)
 - [Your AI strategy is probably wrong — Why multi-agent AI Ecommerce is what actually moves the needle](https://alexgenovese.com/multi-agent-ai-for-ecommerce-how-agentic-systems-are-reshaping-conversion-in-2026-2/)
-- [Multi-Agent AI for Ecommerce: How Agentic Systems Are Reshaping Conversion in 2026](https://alexgenovese.com/multi-agent-ai-for-ecommerce-how-agentic-systems-are-reshaping-conversion-in-2026/)
+- [Multi-Agent AI for Ecommerce: how agentic systems are reshaping conversion in 2026](https://alexgenovese.com/multi-agent-ai-for-ecommerce-how-agentic-systems-are-reshaping-conversion-in-2026/)
 - [How Fashion E-commerce Brands Can Use AI to Improve Retargeting and Unlock Forgotten Data](https://alexgenovese.com/how-fashion-e-commerce-brands-can-use-ai-to-improve-retargeting-and-unlock-forgotten-data/)
 <!-- BLOG-POST-LIST:END -->
 
